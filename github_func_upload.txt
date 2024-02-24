@@ -1,0 +1,14 @@
+git init 
+git config --global user.name "unmeiongaku"
+git config --global user.email "nguyenhoangminhdo@gmail.com"
+git remote add origin https://github.com/unmeiongaku/MPCDrone.git
+git remote  
+git remote -v
+git status
+git add .
+git commit -m "first commit"
+git commit -m " update 1.15.01 reduce functions's lenght calculation "
+git log
+git log --onelinegit
+git push origin master
+git branch -d brance-name ( delete brach)
